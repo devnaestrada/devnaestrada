@@ -1,0 +1,5 @@
+{
+  "repositoryName": "devanestrada",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"]
+}
