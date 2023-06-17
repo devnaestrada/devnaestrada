@@ -1,4 +1,15 @@
 /** @type {import('tailwindcss').Config} */
+
+const minWidth = {
+  xs: 0,
+  sm: '320px',
+  md: '768px',
+  lg: '1025px',
+  xl: '1600px',
+  '1/2': '50%',
+  full: '100%',
+};
+
 module.exports = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
@@ -7,6 +18,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      container: {
+        screens: minWidth,
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
