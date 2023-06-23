@@ -108,7 +108,7 @@ export default function Home() {
                     py-2
                     px-4
                     inline-block
-                    bg-[green]
+                    bg-primary
                     text-black
                     rounded-sm
                   `}
@@ -176,7 +176,7 @@ export default function Home() {
             `}
           >
             {/* SEARCH */}
-            <div
+            {/* <div
               className={`
                 grid
                 justify-end
@@ -206,14 +206,14 @@ export default function Home() {
                   Buscar
                 </button>
               </form>
-            </div>
+            </div> */}
 
             {/* LIST */}
             <div
               className={`
                 grid
                 grid-cols-1
-                gap-y-8
+                divide-y
               `}
             >
               {[
@@ -267,6 +267,7 @@ export default function Home() {
                       grid
                       grid-cols-[minmax(120px,_1fr),_auto]
                       gap-x-4
+                      py-8
                     `}
                   >
                     <div>
@@ -285,6 +286,7 @@ export default function Home() {
                           grid-flow-col
                           auto-cols-max
                           gap-x-2
+                          text-xs
                         `}
                       >
                         {[

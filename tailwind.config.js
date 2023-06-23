@@ -10,6 +10,23 @@ const minWidth = {
   full: '100%',
 };
 
+const green = '#7BE473';
+const gray = '#404040';
+const white = '#FFFFFF';
+const black = '#202020';
+
+const palette = {
+  primary: green,
+  secondary: gray,
+};
+
+const colors = {
+  green,
+  gray,
+  white,
+  black,
+};
+
 module.exports = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
@@ -17,6 +34,14 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    colors: {
+      ...palette,
+      ...colors
+    },
+    fontFamily: {
+      brand: ['var(--font-rubik)', 'sans-serif'],
+      main: ['var(--font-main)', 'sans-serif'],
+    },
     extend: {
       container: {
         screens: minWidth,

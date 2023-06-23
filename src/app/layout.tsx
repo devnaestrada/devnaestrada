@@ -1,8 +1,21 @@
 import './globals.css';
-import { Inter } from 'next/font/google';
+import Head from 'next/head';
 import clsx from 'clsx';
+import { Rubik, Roboto } from 'next/font/google';
 
-const inter = Inter({ subsets: ['latin'] })
+const rubik = Rubik({
+  subsets: ['latin'],
+  variable: '--font-rubik',
+  display: 'swap',
+});
+
+const roboto = Roboto({
+  subsets: ['latin'],
+  variable: '--font-roboto',
+  display: 'swap',
+  weight: ['400', '700'],
+})
+
 
 export const metadata = {
   title: 'Create Next App',
@@ -16,13 +29,24 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-br">
+      <head>
+        <link
+          rel="preconnect"
+          href="https://fonts.googleapis.com"
+        />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="anonymous"
+        />
+      </head>
+
       <body
-        className={clsx(
-          inter.className,
-          `
-            bg-white
-          `
-        )}
+        className={`
+          ${rubik.variable}
+          ${roboto.variable}
+          bg-white
+        `}
       >
         {children}
       </body>
