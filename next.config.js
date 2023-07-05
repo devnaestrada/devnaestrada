@@ -1,7 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  pageExtensions: [
+    'page.tsx',
+    'page.ts',
+  ],
   images: {
-    domains: ['placehold.co'],
+    domains: ['lorempixel.com.br', 'ssl-static.libsyn.com'],
   },
 }
 

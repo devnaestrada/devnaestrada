@@ -1,6 +1,10 @@
 import Image from 'next/image'
 import Link from 'next/link';
 
+import HomeFeed from './HomeFeed';
+
+import { generateRSSFeed } from '../../services/rss';
+
 export default function Home() {
   return (
     <>
@@ -83,7 +87,7 @@ export default function Home() {
                       a11y: 'Ir para a página Contato',
                     },
                   ].map(({ id, ...link }) => (
-                    <li key={id}>
+                    <li key={`nav-${id}`}>
                       <Link
                         href={link.href}
                         aria-label={link.a11y}
@@ -208,147 +212,7 @@ export default function Home() {
               </form>
             </div> */}
 
-            {/* LIST */}
-            <div
-              className={`
-                grid
-                grid-cols-1
-                divide-y
-              `}
-            >
-              {[
-                {
-                  id: 1,
-                  image: {
-                    src: 'https://placehold.co/120x120',
-                    alt: '',
-                    width: 120,
-                    height: 120,
-                  },
-                  tags: [
-                    {
-                      label: 'Tecnologia',
-                      href: '#',
-                    },
-                    {
-                      label: 'Front-End',
-                      href: '#',
-                    }
-                  ],
-                  title: 'Lorem ipsum dolor',
-                  description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ipsa hic voluptatem necessitatibus eius, similique autem et magni velit iusto reiciendis ea corporis! Nostrum officiis sint, optio quae saepe assumenda.'
-                },
-                {
-                  id: 2,
-                  image: {
-                    src: 'https://placehold.co/120x120',
-                    alt: '',
-                    width: 120,
-                    height: 120,
-                  },
-                  tags: [
-                    {
-                      label: 'Tecnologia',
-                      href: '#',
-                    },
-                    {
-                      label: 'Front-End',
-                      href: '#',
-                    }
-                  ],
-                  title: 'Lorem ipsum dolor',
-                  description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ipsa hic voluptatem necessitatibus eius, similique autem et magni velit iusto reiciendis ea corporis! Nostrum officiis sint, optio quae saepe assumenda.'
-                },
-              ].map(
-                ({ id, ...ep }) => (
-                  <div
-                    key={id}
-                    className={`
-                      grid
-                      grid-cols-[minmax(120px,_1fr),_auto]
-                      gap-x-4
-                      py-8
-                    `}
-                  >
-                    <div>
-                      <Image
-                        src={ep.image.src}
-                        alt=""
-                        width={ep.image.width}
-                        height={ep.image.height}
-                      />
-                    </div>
-
-                    <div>
-                      <ul
-                        className={`
-                          grid
-                          grid-flow-col
-                          auto-cols-max
-                          gap-x-2
-                          text-xs
-                        `}
-                      >
-                        {[
-                          {
-                            id: 1,
-                            label: 'Tecnologia',
-                            href: '#',
-                            target: '_self',
-                            a11y: 'Ver todos os episódios sobre [TAG]',
-                          },
-                          {
-                            id: 1,
-                            label: 'Front-end',
-                            href: '#',
-                            target: '_self',
-                            a11y: 'Ver todos os episódios sobre [TAG]',
-                          },
-                        ].map(
-                          ({ id, ...tag }) => (
-                            <li
-                              key={id}
-                              className={`
-                                bg-gray-200
-                                text-gray-800
-                                px-2
-                                py-1
-                                rounded-md
-                                mb-2
-                                lowercase
-                              `}
-                            >
-                              {tag.label}
-                            </li>
-                          )
-                        )}
-                      </ul>
-
-                      <div className="overflow-hidden">
-                        <h2
-                          className={`
-                            text-2xl
-                            text-gray-950
-                            mb-2
-                            line-clamp-1
-                          `}
-                        >
-                          {ep.title}
-                        </h2>
-                      </div>
-
-                      <div
-                        className={`
-                          text-base
-                        `}
-                      >
-                        <p>{ep.description}</p>
-                      </div>
-                    </div>
-                  </div>
-                ),
-                )}
-            </div>
+            <HomeFeed />
           </div>
         </div>
       </main>
@@ -402,4 +266,12 @@ export default function Home() {
       </footer>
     </>
   );
+}
+
+export async function getStaticProps() {
+  await generateRSSFeed();
+
+  return {
+    props: {},
+  };
 }

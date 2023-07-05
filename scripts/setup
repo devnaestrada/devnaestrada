@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [[ $VERCEL ]]; then
+  echo "skip preinstall script"
+else
+  if [ ! -f .env ]; then
+    cp .env.sample .env
+  fi
+fi
