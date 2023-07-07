@@ -1,6 +1,7 @@
 const LIBSYN_FEED_URL = process.env.NEXT_PUBLIC_LIBSYN_FEED_URL as string;
 
 export async function getFeed(): Promise<any> {
+  console.log('LIBSYN_FEED_URL', LIBSYN_FEED_URL)
   try {
     return await fetch(LIBSYN_FEED_URL)
       .then((res) => res.json());
