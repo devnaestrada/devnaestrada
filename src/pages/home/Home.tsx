@@ -1,9 +1,6 @@
-import Image from 'next/image'
 import Link from 'next/link';
 
 import HomeFeed from './HomeFeed';
-
-import { generateRSSFeed } from '../../services/rss';
 
 export default function Home() {
   return (
@@ -266,12 +263,4 @@ export default function Home() {
       </footer>
     </>
   );
-}
-
-export async function getStaticProps() {
-  await generateRSSFeed();
-
-  return {
-    props: {},
-  };
 }
