@@ -10,6 +10,7 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
+    "@k8adev/feeder": "^1.0.0",
     "@prismicio/client": "^7.0.1",
     "@prismicio/next": "^1.2.1",
     "@prismicio/react": "^2.6.2",
@@ -19,6 +20,7 @@
     "@types/react-dom": "18.2.4",
     "autoprefixer": "10.4.14",
     "clsx": "^1.2.1",
+    "cross-env": "^7.0.3",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
     "next": "13.4.4",

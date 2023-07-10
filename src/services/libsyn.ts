@@ -1,9 +1,6 @@
-const LIBSYN_FEED_URL = process.env.NEXT_PUBLIC_LIBSYN_FEED_URL as string;
-
 export async function getFeed(): Promise<any> {
-  console.log('LIBSYN_FEED_URL', LIBSYN_FEED_URL)
   try {
-    return await fetch(LIBSYN_FEED_URL)
+    return await fetch('/feed.json')
       .then((res) => res.json());
   } catch (error) {
     console.error(
@@ -34,9 +31,9 @@ export async function getEpisodesList(
   } = {}
 ): Promise<Feed> {
   const { limit = 10, offset = 0 } = params;
-  const data = await getFeed();
+  const { items } = await getFeed();
   /**
    * @todo temporary fix for the limit and offset
    */
-  return data.slice(offset, limit);
+  return items.slice(offset, limit);
 }

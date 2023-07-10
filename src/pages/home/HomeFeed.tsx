@@ -24,17 +24,17 @@ export default function HomeFeed() {
             key={`ep-${i}`}
             className={`
               grid
-              grid-cols-[minmax(120px,_1fr),_auto]
+              grid-cols-[200px,_1fr]
               gap-x-4
               py-8
             `}
           >
             <div>
               <Image
-                src="http://lorempixel.com.br/120/120?2"
+                src={ep.itunes.image}
                 alt=""
-                width={120}
-                height={120}
+                width={200}
+                height={200}
               />
             </div>
 
@@ -48,7 +48,7 @@ export default function HomeFeed() {
                   text-xs
                 `}
               >
-                {/* {ep.itunes.keywords?.split(',').map(
+                {ep.itunes.keywords?.split(',').map(
                   (keyword, j) => (
                     <li
                       key={`tags-${i}-${j}`}
@@ -65,7 +65,7 @@ export default function HomeFeed() {
                       {keyword}
                     </li>
                   )
-                )} */}
+                )}
               </ul>
 
               <div className="overflow-hidden">
@@ -86,7 +86,7 @@ export default function HomeFeed() {
                   text-base
                 `}
               >
-                <p>{ep['content:encodedSnippet']}</p>
+                <p>{ep.contentSnippet}</p>
               </div>
             </div>
           </div>

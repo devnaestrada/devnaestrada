@@ -1,0 +1,4 @@
+#!/bin/bash
+
+npx feeder --rss $LIBSYN_RSS_URL -f "feed"
+npx feeder --rss $LIBSYN_RSS_URL -f "feed" --json
