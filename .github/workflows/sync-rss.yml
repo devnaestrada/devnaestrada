@@ -1,6 +1,9 @@
 ---
 name: Sync RSS
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '*/1 * * * *'
 
