@@ -11,6 +11,7 @@ jobs:
   sync:
     name: Setup environment
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
@@ -18,8 +19,6 @@ jobs:
           echo $LIBSYN_RSS_URL
           npx @k8adev/feeder --rss ${{ env.LIBSYN_RSS_URL }} -f "feed"
           npx @k8adev/feeder --rss ${{ env.LIBSYN_RSS_URL }} -f "feed" --json
-        env:
-          LIBSYN_RSS_URL: ${{ secrets.LIBSYN_RSS_URL }}
       - uses: actions/upload-artifact@v2
         with:
           name: feed
