@@ -16,6 +16,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
       - run: |
+          ls -la
           echo ${{ vars.LIBSYN_RSS_URL }}
           npx @k8adev/feeder --rss ${{ vars.LIBSYN_RSS_URL }} -f "feed"
           npx @k8adev/feeder --rss ${{ vars.LIBSYN_RSS_URL }} -f "feed" --json
