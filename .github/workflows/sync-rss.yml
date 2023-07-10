@@ -16,8 +16,8 @@ jobs:
       - uses: actions/setup-node@v2
       - run: |
           echo $LIBSYN_RSS_URL
-          npx @k8adev/feeder --rss $LIBSYN_RSS_URL -f "feed"
-          npx @k8adev/feeder --rss $LIBSYN_RSS_URL -f "feed" --json
+          npx @k8adev/feeder --rss ${{ env.LIBSYN_RSS_URL }} -f "feed"
+          npx @k8adev/feeder --rss ${{ env.LIBSYN_RSS_URL }} -f "feed" --json
         env:
           LIBSYN_RSS_URL: ${{ secrets.LIBSYN_RSS_URL }}
       - uses: actions/upload-artifact@v2
