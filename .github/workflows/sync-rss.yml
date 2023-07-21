@@ -31,6 +31,8 @@ jobs:
     steps:
       - name: Setup environment
         uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
 
       - run: |
           pwd
@@ -40,10 +42,10 @@ jobs:
           name: public
           path: public
 
+      - run: |
+          ls -la public
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: auto update RSS"
           commit_options: --no-verify
-          file_pattern: public/*
-          repository: ${{ github.repository }}
-          branch: ${{ github.ref }}
