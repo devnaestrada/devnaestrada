@@ -38,11 +38,12 @@ jobs:
       - uses: actions/download-artifact@v2
         with:
           name: public
+          path: public
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: auto update RSS"
           commit_options: --no-verify
-          file_pattern: public/feed.*
+          file_pattern: public/*
           repository: ${{ github.repository }}
           branch: ${{ github.ref }}
