@@ -34,7 +34,23 @@
 		<spotify:countryOfOrigin>BR</spotify:countryOfOrigin>
 
 		<podcast:locked owner="contato@devnaestrada.com.br">no</podcast:locked>
+		
+		<item>
+			<title>DNE 387 - Série: DNE News #7</title>
+			<pubDate>Fri, 07 Jul 2023 19:41:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0f756f7b-3bb9-49fc-9110-c386123d1feb]]></guid>
+			<link><![CDATA[http://devnaestrada.libsyn.com/dne-387-srie-dne-news-7]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/7/6/5/f/765f519e759531f5d959afa2a1bf1c87/DNE_NEWS_1.png" />
+			<description><![CDATA[<p>Neste episódio Eduardo Mattos comenta as principais notícias da semana, sempre com muito bom humor pra deixar todos sempre bem informados do que está acontecendo na #BolhaDev.</p>]]></description>
+			<enclosure length="23435705" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE387.mp3?dest-id=4070619" />
+			<itunes:duration>24:25</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>Facebook,Microsoft,Mulheres,Noticias,Pessoas,Salarial,Salários,chat GPT,instagram,meta,thread</itunes:keywords>
+			<itunes:subtitle><![CDATA[Neste episódio Eduardo Mattos comenta as principais notícias da semana, sempre com muito bom humor pra deixar todos sempre bem informados do que está acontecendo na #BolhaDev.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Dev Na Estrada</itunes:author>
 
+					</item>
 		<item>
 			<title>DNE 386 - Histórias Reais da Vida Real</title>
 			<pubDate>Fri, 30 Jun 2023 03:01:00 +0000</pubDate>
