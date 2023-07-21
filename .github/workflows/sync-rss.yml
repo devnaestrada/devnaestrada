@@ -36,6 +36,10 @@ jobs:
       - name: Setup environment
         uses: actions/checkout@v3
 
+
+      - run: |
+          pwd
+
       - uses: actions/download-artifact@v2
         with:
           name: feed
