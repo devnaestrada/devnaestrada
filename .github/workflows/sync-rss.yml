@@ -17,8 +17,8 @@ jobs:
       - uses: actions/setup-node@v3
       - run: |
           npm install
-          npx feeder --rss ${{ vars.LIBSYN_RSS_URL }} -f "feed"
-          npx feeder --rss ${{ vars.LIBSYN_RSS_URL }} -f "feed" --json
+          node node_modules/.bin/feeder --rss ${{ vars.LIBSYN_RSS_URL }} -f "feed"
+          node node_modules/.bin/feeder --rss ${{ vars.LIBSYN_RSS_URL }} -f "feed" --json
       - uses: actions/upload-artifact@v2
         with:
           name: feed
