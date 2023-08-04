@@ -3,14 +3,13 @@
 	<channel>
 		<atom:link href="https://feeds.libsyn.com/104268/spotify" rel="self" type="application/rss+xml"/>
 		<title>DEVNAESTRADA</title>
-		<pubDate>Fri, 28 Jul 2023 21:27:00 +0000</pubDate>
-		<lastBuildDate>Fri, 28 Jul 2023 21:33:48 +0000</lastBuildDate>
+		<pubDate>Fri, 04 Aug 2023 03:21:22 +0000</pubDate>
+		<lastBuildDate>Fri, 04 Aug 2023 03:29:58 +0000</lastBuildDate>
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://devnaestrada.com.br</link>
 		<language>pt-br</language>
-		<copyright><![CDATA[© 2019 DEVNAESTRADA]]></copyright>
+		<copyright><![CDATA[© 2023 DEVNAESTRADA]]></copyright>
 		<docs>https://devnaestrada.com.br</docs>
-		<managingEditor>contato@devnaestrada.com.br (contato@devnaestrada.com.br)</managingEditor>
 		<description><![CDATA[O podcast mais tradicional sobre desenvolvimento! Toda sexta-feira um novo episódio sobre tecnologias, entrevistas com profissionais na área, tudo com muito humor e alegria]]></description>
 		<image>
 			<url>https://ssl-static.libsyn.com/p/assets/5/e/a/b/5eab86c7695a7624/dne-1400.png</url>
@@ -36,6 +35,21 @@
 		<podcast:locked owner="contato@devnaestrada.com.br">no</podcast:locked>
 		
 		<item>
+			<title>DNE 390 - Até onde vai o limite de tentarmos mudar algo nas empresas</title>
+			<pubDate>Fri, 04 Aug 2023 03:21:22 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[d7dd2fc6-c4de-4ea4-9a9f-ccdd85c98984]]></guid>
+			<link><![CDATA[https://devnaestrada.com.br/2023/08/04/ate-onde-vai-o-limite-de-tentarmos-mudar-algo-nas-empresas.html]]></link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/1/c/1/6/1c16b2f0f5a91f99a04421dee9605cbd/DNE-390.png" />
+			<description><![CDATA[<p>Até onde a gente vai ao sugerir mudanças, tentar incentivar que coisas mudem nos times e nas empresas? Edu e Emílio se reúnem em mais um papo sobre carreira e trabalho.</p>]]></description>
+			<enclosure length="44846289" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_390.mp3?dest-id=4070619" />
+			<itunes:duration>46:07</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>Carreira,Edu,Emilio,devnaestrada,mudana</itunes:keywords>
+			<itunes:subtitle><![CDATA[Até onde a gente vai ao sugerir mudanças, tentar incentivar que coisas mudem nos times e nas empresas? Edu e Emílio se reúnem em mais um papo sobre carreira e trabalho.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+
+					</item>
+		<item>
 			<title>DNE 389 - A Plastificação da Bolha Dev</title>
 			<pubDate>Fri, 28 Jul 2023 21:27:00 +0000</pubDate>
 			<guid isPermaLink="false"><![CDATA[170dc18c-3b0e-4ede-aebf-59270fc6a48a]]></guid>
@@ -45,7 +59,7 @@
 			<enclosure length="67641012" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_389.mp3?dest-id=4070619" />
 			<itunes:duration>01:09:22</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Bolha Dev,Hater,Influencer,Podcast,Polêmicas,Redes Sociais,Twitter</itunes:keywords>
+			<itunes:keywords>Bolha Dev,Hater,Influencer,Polêmicas,Redes Sociais,podcast,twitter</itunes:keywords>
 			<itunes:subtitle><![CDATA[Quer mais um papo filosófico? Hoje, Willian, Edu e Hugo falaram sobre como a dinâmica das redes sociais acaba influenciando nossas vidas, impactando como somos percebidos e como nossas opiniões ou falas podem ser interpretadas de diversas formas....]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Dev Na Estrada</itunes:author>
@@ -61,7 +75,7 @@
 			<enclosure length="60147527" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_388.mp3?dest-id=4070619" />
 			<itunes:duration>01:01:28</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Carreira,Desenvolvimento,Experiência,Junior,Maturidade,Senior,Senior de 2 anos,Senioridade,Trabalho,dev</itunes:keywords>
+			<itunes:keywords>Carreira,DEV,Desenvolvimento,Experiência,Junior,Maturidade,Senior,Senior de 2 anos,Senioridade,Trabalho</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio sobre carreira, Edu e Emílio falam sobre o momento da carreira deles que perceberam que sabiam do que estavam fazendo, com mais propriedade e menos ansiedade. Cola com a gente pra mais um episódio de filosofia!]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Dev Na Estrada</itunes:author>
@@ -77,7 +91,7 @@
 			<enclosure length="23435705" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE387.mp3?dest-id=4070619" />
 			<itunes:duration>24:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Facebook,Microsoft,Mulheres,Noticias,Pessoas,Salarial,Salários,chat gpt,instagram,meta,thread</itunes:keywords>
+			<itunes:keywords>Chat GPT,Facebook,Instagram,Meta,Mulheres,Noticias,Pessoas,Salarial,Salários,microsoft,thread</itunes:keywords>
 			<itunes:subtitle><![CDATA[Neste episódio Eduardo Mattos comenta as principais notícias da semana, sempre com muito bom humor pra deixar todos sempre bem informados do que está acontecendo na #BolhaDev.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Dev Na Estrada</itunes:author>
@@ -109,7 +123,7 @@
 			<enclosure length="67982882" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_385.mp3?dest-id=4070619" />
 			<itunes:duration>01:10:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>2023,Alemanha,Brasil,Devs,EUA,India,Mercado,Pesquisa,Salário,overflow,stack Overflow Developer Survey 2023,survey</itunes:keywords>
+			<itunes:keywords>2023,Alemanha,Devs,EUA,Mercado,Pesquisa,Salário,Survey,brasil,india,overflow,stack Overflow Developer Survey 2023</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio finalmente Emílio, Willian e Eduardo se reuniram para avaliar os resultados da pesquisa do Stackoverflow 2023 e comentar as percepções de cada um sobre os números.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>DNE</itunes:author>
@@ -157,7 +171,7 @@
 			<enclosure length="71273913" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_382.mp3?dest-id=4070619" />
 			<itunes:duration>01:12:39</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Carro,Cars,DNE,Estrada,Fast X,Netflix,Opala,Rodrigo Improta,Tadeu Zagallo,Tesla,Tokyo Drift,Vin Diesel,Willian Martins,fast and furious,porsche</itunes:keywords>
+			<itunes:keywords>Carro,DNE,Estrada,Fast X,Opala,Rodrigo Improta,Tadeu Zagallo,Tokyo Drift,Vin Diesel,Willian Martins,cars,fast and furious,netflix,porsche,tesla</itunes:keywords>
 			<itunes:subtitle><![CDATA[Neste episódio um pouco diferente do Dev Na Estrada, Willian Martins se reúne com os entusiastas de automóveis Tadeu Zagallo, Rodrigo Improta e Felippe Regazio para uma conversa apaixonante sobre carros, jogos de corrida e outras curiosidades...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>Dev Na Estrada</itunes:author>
@@ -173,7 +187,7 @@
 			<enclosure length="66714543" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_381.mp3?dest-id=4070619" />
 			<itunes:duration>01:09:30</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Iniciante,Junior,Nivel,desenvolvedor,dev</itunes:keywords>
+			<itunes:keywords>DEV,Iniciante,Junior,Nivel,desenvolvedor</itunes:keywords>
 			<itunes:subtitle><![CDATA[Como está o mercado para pessoas desenvolvedoras junior? Eduardo Matos e Emilio Aiolfi se juntam mais uma vez pra falar sobre a perspectiva deles para quem está começando na área, os desafios, as vagas, a dura realidade e algumas dicas pra encarar...]]></itunes:subtitle>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>381</itunes:episode>
@@ -191,7 +205,7 @@
 			<enclosure length="55758412" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_380.mp3?dest-id=4070619" />
 			<itunes:duration>56:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Coelho,Dev Coelho,Engenheira,Engenheira Coelho,Leticia Coelho,Mulheres,PCD,Tecnologia,dev</itunes:keywords>
+			<itunes:keywords>Coelho,DEV,Dev Coelho,Engenheira,Engenheira Coelho,Leticia Coelho,Mulheres,PCD,Tecnologia</itunes:keywords>
 			<itunes:subtitle><![CDATA[Neste episódio Eduardo Matos e Willian Martins conversam com a Letícia Coelho, mais conhecida como . Ela conta um pouco sobre sua carreira e projetos que vem desenvolvendo! Vem com a gente em mais uma entrevista inspiradora!]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -206,7 +220,7 @@
 			<enclosure length="65817812" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_379.mp3?dest-id=4070619" />
 			<itunes:duration>01:04:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Amazon,Microserviços,Monolito,Netflix,Serviços,micro,services</itunes:keywords>
+			<itunes:keywords>Amazon,Microserviços,Monolito,Serviços,micro,netflix,services</itunes:keywords>
 			<itunes:subtitle><![CDATA[Neste episódio Willians Martins e os convidados Hugo Marques, Leandro Lages e Frederico Cabral comentam sobre um artigo do time de tecnologia do PrimeVideo, sobre a estratégia de redução de custos deles. Senta que vem história boa :)]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -251,7 +265,7 @@
 			<enclosure length="75133787" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_376.mp3?dest-id=4070619" />
 			<itunes:duration>01:16:54</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Conversa,DNE 376,Engenheiro de Software,Perfis,conversao,dev</itunes:keywords>
+			<itunes:keywords>Conversa,DEV,DNE 376,Engenheiro de Software,Perfis,conversao</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nessa semana, , apresenta uma discussão animada sobre as nuances entre o Dev programador e o Engenheiro de software, junto aos convidados especiais ,  e . Você vai descobrir as diferenças entre esses dois perfis profissionais e como cada um deles...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -266,7 +280,7 @@
 			<enclosure length="44057415" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_375.mp3?dest-id=4070619" />
 			<itunes:duration>43:51</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Bolha,Bolha Dev,Tread,Twitter,medium,texto</itunes:keywords>
+			<itunes:keywords>Bolha,Bolha Dev,Tread,medium,texto,twitter</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio do DNE, William Martins e Mario Souto tiveram uma conversa esclarecedora com o convidado Hugo Marques. Juntos, eles exploraram a forma como a criação de conteúdo nas redes sociais, em especial o Twitter, pode ser extremamente útil...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -296,7 +310,7 @@
 			<enclosure length="66143715" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_373.mp3?dest-id=4070619" />
 			<itunes:duration>01:06:52</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>AI,Apocalipse,ChatGPT,typescript</itunes:keywords>
+			<itunes:keywords>AI,Apocalipse,chatgpt,typescript</itunes:keywords>
 			<itunes:subtitle><![CDATA[Era pra ser TypeScript mas acabou sendo AI]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -341,7 +355,7 @@
 			<enclosure length="82263628" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_370.mp3?dest-id=4070619" />
 			<itunes:duration>01:23:57</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>#LinkedIn,Carreira,Melhorar Linkedin,Netflix,Netshoes,Perfil,Redes Sociais,networking</itunes:keywords>
+			<itunes:keywords>#LinkedIn,Carreira,Melhorar Linkedin,Netshoes,Perfil,Redes Sociais,netflix,networking</itunes:keywords>
 			<itunes:subtitle><![CDATA[No episódio de hoje, Emilio Aiolfi, Edu Matos e Willian Martins avaliam e melhoram seus perfis do LinkedIn em tempo real, discutindo dicas importantes para uma presença profissional forte na plataforma.   Os perfis do LinkedIn usados no episódio: ...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -356,7 +370,7 @@
 			<enclosure length="77543259" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_369.mp3?dest-id=4070619" />
 			<itunes:duration>01:19:10</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Carreira,Desenvolvimento,Dev Soutinho,Glaucia Lemos,Keit,Mario Souto,Senior,Wonder Wanny,dev</itunes:keywords>
+			<itunes:keywords>Carreira,DEV,Desenvolvimento,Dev Soutinho,Glaucia Lemos,Keit,Mario Souto,Senior,Wonder Wanny</itunes:keywords>
 			<itunes:subtitle><![CDATA[No DNE dessa semana Keit, Emilio, Willian e Mario, recebem Carla, Wonder Wanny, Glaucia Lemos e Loiane Groner. Nessa mesa redonda do desenvolvimento pra discutir como gerenciar a carreira depois de muito tempo de estrada. Já pode pedir aumento?...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -371,7 +385,7 @@
 			<enclosure length="76255673" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_368.mp3?dest-id=4070619" />
 			<itunes:duration>01:17:27</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Apple,Brasil,Demissão,Demissões,EUA,FAMG,Facebook,Impacto,Layofff,Mercado,Microsoft,Netflix,layoffs</itunes:keywords>
+			<itunes:keywords>Apple,Demissão,Demissões,EUA,FAMG,Facebook,Impacto,Layofff,Mercado,brasil,layoffs,microsoft,netflix</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse Episódio  e , conversam com ,  e , sobre a cultura de layoff recente no vale do silicio. O que isso afeta a carreira, suas perspectivas de futuro no mercado brasileiro e americano e dicas para se segurar nesse período turbulento. &nbsp;]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -386,7 +400,7 @@
 			<enclosure length="44605296" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_367.mp3?dest-id=4070619" />
 			<itunes:duration>46:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>BolhaDev,DNE,Dev Experience,Experiência,Ferramentas,desenvolvedor,onboarding</itunes:keywords>
+			<itunes:keywords>BolhaDev,DNE,Dev Experience,Experiência,Ferramentas,Onboarding,desenvolvedor</itunes:keywords>
 			<itunes:subtitle><![CDATA[Developer Experience é o tema de hoje! Como gerar eficiência na tecnologia através de uma cultura que lide com a experiência das pessoas desenvolvedoras? Nesse episódio, Eduardo Matos e Emilio Aiolfi discutem sobre a importância dessa temática...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>DNE</itunes:author>
@@ -402,7 +416,7 @@
 			<enclosure length="38445414" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_366.mp3?dest-id=4070619" />
 			<itunes:duration>39:59</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>CTO,DNE,Diretoria,dev,liderança</itunes:keywords>
+			<itunes:keywords>CTO,DEV,DNE,Diretoria,liderança</itunes:keywords>
 			<itunes:subtitle><![CDATA[CTO, Diretoria, Head hands-on?  Faz sentido esses papéis ainda colocarem a mão no código? Hoje, Eduardo Matos e Emilio Aiolfi discutem esse assunto, contando com a experiência deles tanto em papéis de liderança técnica como de pessoas.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>DNE</itunes:author>
@@ -433,7 +447,7 @@
 			<enclosure length="58070917" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_364.mp3?dest-id=4070619" />
 			<itunes:duration>01:00:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>2023,Dev Na estrada,Emilio,Emilio Aiolfi,Novidades,dev,futuro</itunes:keywords>
+			<itunes:keywords>2023,DEV,Dev Na estrada,Emilio,Emilio Aiolfi,Novidades,futuro</itunes:keywords>
 			<itunes:subtitle><![CDATA[E voltamos! Mas o que esperar de 2023? Quais nossos prognósticos para tecnologia nesse ano? Emílio Aiolfi e Eduardo Matos discutem seus pontos de vista sobre 23 e suas expectativas!]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -463,7 +477,7 @@
 			<enclosure length="63588564" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_362.mp3?dest-id=4070619" />
 			<itunes:duration>01:05:12</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Comunista,Elon,Elon Buy Twitter,Elon Musk,Elon comprou o Twitter,Musk,NASA,SPACE X,Tesla,Twitter,cultura,culturapop,culture</itunes:keywords>
+			<itunes:keywords>Comunista,Elon,Elon Buy Twitter,Elon comprou o Twitter,Musk,NASA,SPACE X,cultura,culturapop,culture,elon musk,tesla,twitter</itunes:keywords>
 			<itunes:subtitle><![CDATA[Hoje, Eduardo Mattos e William Arantes discutem sobre os últimos acontecimentos no Twitter, desde o aspecto cultural até os aspectos de tecnologia. Puxa sua cadeira e senta na mesa de bar que o assunto vai ser quente!]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -478,7 +492,7 @@
 			<enclosure length="37135342" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_361.mp3?dest-id=4070619" />
 			<itunes:duration>38:37</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Dev Na estrada,Dev Soutinho,JS boladão,Martins,Soutinho,William,dev,js</itunes:keywords>
+			<itunes:keywords>DEV,Dev Na estrada,Dev Soutinho,JS boladão,Martins,Soutinho,William,js</itunes:keywords>
 			<itunes:subtitle><![CDATA[Neste episódio, William Martins recebe pessoalmente Mario Souto, o Dev Soutinho, &nbsp;diretamente do Vale do Silício, para uma conversa sobre design systems! Como fazer um kill switch, quais são as primitivas, será que Brad Frost com seus...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -493,7 +507,7 @@
 			<enclosure length="50943919" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_360.mp3?dest-id=4070619" />
 			<itunes:duration>50:59</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Dev Na estrada,Morre,Morrem,Time Acabou,dev,teams,time</itunes:keywords>
+			<itunes:keywords>DEV,Dev Na estrada,Morre,Morrem,Time Acabou,teams,time</itunes:keywords>
 			<itunes:subtitle><![CDATA[Alguns episódios atrás comentamos como nascem os times, mas e quando é que eles morrem? Emilio Aiolfi e Eduardo Matos discutem aspectos e sintomas da possível morte de um time, como evitar ou até mesmo quando não há mais volta.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -508,7 +522,7 @@
 			<enclosure length="35393622" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_359.mp3?dest-id=4070619" />
 			<itunes:duration>35:09</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Dev Soutinho,Facebook,Java Script,JavaScript,Mario Souto,React,Vercel,shopify</itunes:keywords>
+			<itunes:keywords>Dev Soutinho,Facebook,Java Script,JavaScript,Mario Souto,React,Shopify,Vercel</itunes:keywords>
 			<itunes:subtitle><![CDATA[Emilio e Mário fazem um repeteco dos últimos 10 anos do Front End, falando das contribuições de Facebook, Google e como hoje o ecossistema JS vem sendo bancado por empresas como Shopify e Vercel! Sim, você não leu errado e se quiser saber mais...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -568,7 +582,7 @@
 			<enclosure length="87454054" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_355.mp3?dest-id=4070619" />
 			<itunes:duration>01:31:02</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Dev Na estrada,dev,frontend,spa</itunes:keywords>
+			<itunes:keywords>DEV,Dev Na estrada,frontend,spa</itunes:keywords>
 			<itunes:subtitle><![CDATA[No episódio dessa semana, Emilio Aiolfi e Willian Martins recebem os convidados Eduardo Ottaviani e Erick Bessa para conversar sobre o antes e depois das SPAs e como vivemos em ciclos no frontend no passado, presente e futuro.     -  -  -  -  -  -  -...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -598,7 +612,7 @@
 			<enclosure length="26820548" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_353.mp3?dest-id=4070619" />
 			<itunes:duration>25:10</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>DNE News,Figma,News,Noticias,Pirata,Piratebay,Setembro,Uber,adobe,hacker,slack</itunes:keywords>
+			<itunes:keywords>DNE News,Figma,Noticias,Pirata,Piratebay,Setembro,Uber,adobe,hacker,news,slack</itunes:keywords>
 			<itunes:subtitle><![CDATA[Episódio do DNE News, Emilio Aiolfi e Willian Arantes (voltando da geladeira) comentam sobre "Uber sofre invasão", "Adobe compra Figma" e uma "breaking news". Links do Episódio:]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -645,7 +659,7 @@
 			<enclosure length="72254780" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_350.mp3?dest-id=4070619" />
 			<itunes:duration>01:15:12</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>DNE,Dev Na estrada,Netflix,backend,book,cultura,culture,dev,dne 350,front,frontend,js,livro</itunes:keywords>
+			<itunes:keywords>DEV,DNE,Dev Na estrada,backend,book,cultura,culture,dne 350,front,frontend,js,livro,netflix</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio Emilio Aiolfi, Keit Oliveira, Willian Martins e os convidados Gustavo bastos e Stephani Bishop continuam a conversa sobre a cultura da Netflix baseada no livro e em suas experiências profissionais. Coloque o fone, da o play e ver...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -720,7 +734,7 @@
 			<enclosure length="75851131" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_345.mp3?dest-id=4070619" />
 			<itunes:duration>01:19:01</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>A Regra,Dev Na estrada,Devs,Netflix,Níveis,Regras,dev,levels,livro</itunes:keywords>
+			<itunes:keywords>A Regra,DEV,Dev Na estrada,Devs,Níveis,Regras,levels,livro,netflix</itunes:keywords>
 			<itunes:subtitle><![CDATA[Episódio especial sobre o Livro "A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção". Emilio Aiolfi e Willian Martins passam as suas percepções sobre livro, com a participação especial de Gustavo Bastos e Hugo Marques que comentam...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -750,7 +764,7 @@
 			<enclosure length="37726566" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_343.mp3?dest-id=4070619" />
 			<itunes:duration>39:18</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>2022,Brasil,Dev Na estrada,EUA,India,Mundo,Pesquisa,USA,desenvolvedor,dev,europa,linguagem,salarios,stackoverflow,survey</itunes:keywords>
+			<itunes:keywords>2022,DEV,Dev Na estrada,EUA,Mundo,Pesquisa,Survey,USA,brasil,desenvolvedor,europa,india,linguagem,salarios,stackoverflow</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio Emilio Aiolfi e Willian Arantes comentam sobre "Developer Survey 2022" do Stack Overflow. A pesquisa do Stack Overflow desse ano feita com mais de 70.000 desenvolvedores que contam sobre como aprendem, o que querem aprender e muito mais.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -780,7 +794,7 @@
 			<enclosure length="53158037" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_341.mp3?dest-id=4070619" />
 			<itunes:duration>55:23</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Bolha,BolhaDev,DIA,DNE,DNE 341,Desenvolvimento,Dev Na estrada,Devs,Dia-a-dia,Ferramentas,Podcast,dev</itunes:keywords>
+			<itunes:keywords>Bolha,BolhaDev,DEV,DIA,DNE,DNE 341,Desenvolvimento,Dev Na estrada,Devs,Dia-a-dia,Ferramentas,podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[Papo de hoje é sobre elas, as ferramentas que não abrimos mão e mais usamos em nosso dia a dia. Ferramentas que deixam o nosso trabalho como devs mais fácil (menos o Emilio que coda no bloco de notas 👀). Ele e Keit batem um papo sobre quais...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -842,7 +856,7 @@
 			<enclosure length="54152132" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_337.mp3?dest-id=4070619" />
 			<itunes:duration>56:21</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>BolhaDev,DNE,Desenvolvimento,JavaScript,Podcast,TC39,desenvolvedor,dev,frontend,js</itunes:keywords>
+			<itunes:keywords>BolhaDev,DEV,DNE,Desenvolvimento,JavaScript,TC39,desenvolvedor,frontend,js,podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[A Série TC39 evoluíu para JS Boladão! Mario e Willian discutem sobre a proposta que o próprio Willian está trabalhando pra apresentar ao plenário e também sobre os fundamentos de integráveis em JS.  Links       &nbsp;]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 			<itunes:author>DNE</itunes:author>
@@ -858,7 +872,7 @@
 			<enclosure length="86651802" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_336.mp3?dest-id=4070619" />
 			<itunes:duration>01:30:12</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Bolha,Dev Na estrada,Programação,Staff Engineer,dev,engineer,staff</itunes:keywords>
+			<itunes:keywords>Bolha,DEV,Dev Na estrada,Programação,Staff Engineer,engineer,staff</itunes:keywords>
 			<itunes:subtitle><![CDATA[O que é Staff engineer? Esse é o tema do episódio de hoje do DNE! Eduardo Matos, Emilio Aiolfi e Willian Martins fazem aquela boa conversa, cada um expondo o seu ponto de vista sobre esse papel dentro da tecnologia. Existe? Faz sentido? Bora ouvir!...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -888,7 +902,7 @@
 			<enclosure length="70862370" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_334.mp3?dest-id=4070619" />
 			<itunes:duration>01:13:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Amazon,Apple,DNE,Desenvolvimento,Dev Na estrada,Fanga,Microsoft,Netflix,Twitter,backend,dev,front,frontend,frutas,js,manga,meta</itunes:keywords>
+			<itunes:keywords>Amazon,Apple,DEV,DNE,Desenvolvimento,Dev Na estrada,Fanga,Meta,backend,front,frontend,frutas,js,manga,microsoft,netflix,twitter</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio, Emilio e Willian ajudam a investigar a vida da pessoa engenheira FAANG / MANGA. Como trabalham, como conseguem emprego? Como vivem? Do que se alimentam? Como se reproduzem? Se reproduzem? O que é FAANG? Isso e muito mais no episódio...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -903,7 +917,7 @@
 			<enclosure length="39560863" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_333.mp3?dest-id=4070619" />
 			<itunes:duration>38:26</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Comprou,Elon Musk,JavaScript,Programação,PyScript,Twitter,dev,python</itunes:keywords>
+			<itunes:keywords>Comprou,DEV,JavaScript,Programação,PyScript,elon musk,python,twitter</itunes:keywords>
 			<itunes:subtitle><![CDATA[Episódio de noticias do mês de #abril da #bolhaDev, Eduardo Matos e Emilio Aiolfi comentam sobre as demissões que aconteceram em algumas startups, será PyScript o fim do #JS? E Elon Musk compra o Twitter.  Links:]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -933,7 +947,7 @@
 			<enclosure length="43396788" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_331.mp3?dest-id=4070619" />
 			<itunes:duration>45:09</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>BolhaDev,Dev Na estrada,JavaScript,Leitura,Tecnologia,aprender,artigos,atualizado,backend,dev,estudar,frontend,podcasts,tech,textos</itunes:keywords>
+			<itunes:keywords>BolhaDev,DEV,Dev Na estrada,JavaScript,Leitura,Tecnologia,aprender,artigos,atualizado,backend,estudar,frontend,podcasts,tech,textos</itunes:keywords>
 			<itunes:subtitle><![CDATA[No episódio dessa semana, Emilio Aiolfi, Keit Oliveira e Willian Arantes conversam sobre como se manter atualizado em tech. Como lidar com os tsunamis de conteúdo que recebemos todos os dias? Como será a volta dos eventos presenciais pós pandemia?...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -948,7 +962,7 @@
 			<enclosure length="60871892" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_330.mp3?dest-id=4070619" />
 			<itunes:duration>01:03:25</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Dev Na estrada,Dinheiro,Podcast,Programação,dev,motivação</itunes:keywords>
+			<itunes:keywords>DEV,Dev Na estrada,Dinheiro,Programação,motivação,podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[O episódio dessa semana é pura motivação! Emilio Aiolfi, Keit e Will Arantes recebem uma convidada especial, a Laura Oliveira (talent partner na Laskie). Em uma conversa focada sobre o que motiva as pessoas desenvolvedoras aceitarem um novo...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -963,7 +977,7 @@
 			<enclosure length="50943522" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_329.mp3?dest-id=4070619" />
 			<itunes:duration>50:17</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Back End,Bolha,Front End,Ganha,Polemica,Programa,Salario,Soft Skills,dev,hard skills,programar,treta</itunes:keywords>
+			<itunes:keywords>Back End,Bolha,DEV,Front End,Ganha,Polemica,Programa,Salario,Soft Skills,hard skills,programar,treta</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio de tretas da #bolhaDev no mês de março, Keit e Emilio comentam sobre o que aconteceu. Influenciador financeiro diz que programação é fácil, Soft Skills ou Hard Skills e Back ou Front quem ganha mais?]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -978,7 +992,7 @@
 			<enclosure length="41200831" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_328.mp3?dest-id=4070619" />
 			<itunes:duration>42:52</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Desenvolvimento,Devs,Dia da Mentira,Lies,Mentiroso,Podcast,Primeiro de Abril,Programação,desenvolvedor,mentira,mentiras</itunes:keywords>
+			<itunes:keywords>Desenvolvimento,Devs,Dia da Mentira,Mentiroso,Primeiro de Abril,Programação,desenvolvedor,lies,mentira,mentiras,podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[Episódio especial de primeiro de Abril, Eduardo Matos e Emilio Aiolfi comentam sobre algumas possíveis "mentiras" que já ouviram ao longo de suas carreiras. Vem com a gente ouvir algumas "verdades" (ou não)]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1008,7 +1022,7 @@
 			<enclosure length="43851925" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_326.mp3?dest-id=4070619" />
 			<itunes:duration>45:24</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>DNE,Desenvolvimento,Dev Na estrada,Java Script,Netflix,Parte 2,Podcast,Programação,TC 39,dne 326</itunes:keywords>
+			<itunes:keywords>DNE,Desenvolvimento,Dev Na estrada,Java Script,Parte 2,Programação,TC 39,dne 326,netflix,podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[Esse episódio é a parte 2 da série sobre TC39, Willian e Mario Souto continuam a discussão sobre os problemas, as proposta e mais propostas e que mais foi relevante no ultimo plenário. Seguindo com o objetivo de derreter cérebro.]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1038,7 +1052,7 @@
 			<enclosure length="67776159" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_324.mp3?dest-id=4070619" />
 			<itunes:duration>01:10:36</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>DNE,Forza 5,Guilda,Jogos,Microsoft,Netflix,dev,games</itunes:keywords>
+			<itunes:keywords>DEV,DNE,Forza 5,Guilda,Jogos,games,microsoft,netflix</itunes:keywords>
 			<itunes:subtitle><![CDATA[No episódio dessa semana da Guilda de Front-end, Emilio Aiolfi e William Martins recebem convidados especiais, Andre Garzia e Gustavo Bastos. Para falar sobre desenvolvimento de games e frontend, sobre Forza ou Gran Turismo? Playstation ou Nintendo...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1083,7 +1097,7 @@
 			<enclosure length="62493740" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_321.mp3?dest-id=4070619" />
 			<itunes:duration>01:02:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>DNE,Desenvolvimento,Dev Na estrada,Podcast,Tecnologia</itunes:keywords>
+			<itunes:keywords>DNE,Desenvolvimento,Dev Na estrada,Tecnologia,podcast</itunes:keywords>
 			<itunes:subtitle><![CDATA[Nesse episódio cheio de “adventos” a turma do DNE comenta sobre “os adventos do trabalho remoto” para fora do Brasil. Quais as vantagens e desvantagens? Ir para fora do Brasil ou ficar aqui e ganhar em dolar? Também falamos sobre a opção...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1098,7 +1112,7 @@
 			<enclosure length="43013332" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_320.mp3?dest-id=4070619" />
 			<itunes:duration>44:49</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Bolha,Dev Na estrada,Podcast,dev,treta</itunes:keywords>
+			<itunes:keywords>Bolha,DEV,Dev Na estrada,podcast,treta</itunes:keywords>
 			<itunes:subtitle><![CDATA[O episódio de hoje marca o inicio da nova série do DNE sobre tretas na #bolhaDev.&nbsp; @EmilioAiolfi,&nbsp;@seescrevekeit&nbsp;e&nbsp;@wmsbill&nbsp;selecionaram 3 tretas que movimentaram o Twitter nesse mês de Janeiro, ou não. Então venha com a...]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1252,7 +1266,7 @@
 			<enclosure length="54543384" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_310.mp3?dest-id=4070619" />
 			<itunes:duration>56:14</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Carreira,Salario,Salary,Technologia,career,equity,options,tech</itunes:keywords>
+			<itunes:keywords>Career,Carreira,Salario,Technologia,equity,options,salary,tech</itunes:keywords>
 			<itunes:subtitle><![CDATA[Compensação Financeira - parte 1]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1282,7 +1296,7 @@
 			<enclosure length="39060921" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_308.mp3?dest-id=4070619" />
 			<itunes:duration>40:09</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Carreira,Technologia,career,progressao,progression,tech</itunes:keywords>
+			<itunes:keywords>Career,Carreira,Technologia,progressao,progression,tech</itunes:keywords>
 			<itunes:subtitle><![CDATA[Progressão de Carreira - Quando é hora de evoluir?]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -1919,7 +1933,7 @@
 			<enclosure length="61357100" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DH_12.mp3?dest-id=4070619" />
 			<itunes:duration>01:02:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>APPs,health</itunes:keywords>
+			<itunes:keywords>APPs,Health</itunes:keywords>
 			<itunes:subtitle><![CDATA[DevHealthy #12 - Apps (parte 1)]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -2204,7 +2218,7 @@
 			<enclosure length="57521886" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_266.mp3?dest-id=4070619" />
 			<itunes:duration>58:29</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>expat,portugal</itunes:keywords>
+			<itunes:keywords>Portugal,expat</itunes:keywords>
 			<itunes:subtitle><![CDATA[Perrengues em Portugal]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -2504,7 +2518,7 @@
 			<enclosure length="48496893" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE247.mp3?dest-id=4070619" />
 			<itunes:duration>49:36</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Leadership,liderana,management,remote</itunes:keywords>
+			<itunes:keywords>Leadership,Management,Remote,liderana</itunes:keywords>
 			<itunes:subtitle><![CDATA[Liderança e Trabalho Remoto]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -3393,7 +3407,7 @@
 			<enclosure length="41681818" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE188.mp3?dest-id=4070619" />
 			<itunes:duration>43:15</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Technology,cities,interior,migration</itunes:keywords>
+			<itunes:keywords>cities,interior,migration,technology</itunes:keywords>
 			<itunes:subtitle><![CDATA[Do Interior para os Grandes Centros]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -3513,7 +3527,7 @@
 			<enclosure length="37516249" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_EP181.mp3?dest-id=4070619" />
 			<itunes:duration>38:56</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Technology,rituals,work</itunes:keywords>
+			<itunes:keywords>rituals,technology,work</itunes:keywords>
 			<itunes:subtitle><![CDATA[DNE 181: Rituais de Trabalho]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -4534,7 +4548,7 @@
 			<enclosure length="62587030" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/DNE_119_prod.mp3?dest-id=4070619" />
 			<itunes:duration>01:26:50</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Podcast,backend,desenvolvedor,frontend,programador,sarahah</itunes:keywords>
+			<itunes:keywords>backend,desenvolvedor,frontend,podcast,programador,sarahah</itunes:keywords>
 			<itunes:subtitle><![CDATA[Sarahah]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
@@ -4549,7 +4563,7 @@
 			<enclosure length="54766717" type="audio/mpeg" url="https://traffic.libsyn.com/secure/devnaestrada/dne118-prod.mp3?dest-id=4070619" />
 			<itunes:duration>01:15:58</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Podcast,backend,desenvolvedor,frontend,hbitos,programador</itunes:keywords>
+			<itunes:keywords>backend,desenvolvedor,frontend,hbitos,podcast,programador</itunes:keywords>
 			<itunes:subtitle><![CDATA[DNE 118: Hábitos do Desenvolvedor]]></itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 
